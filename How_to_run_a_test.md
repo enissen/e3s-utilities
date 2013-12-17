@@ -9,7 +9,7 @@ and navigate to the following directory (relative to web-client root directory):
 
 `../selenium/tasks`
 
-Assuming * testing-suite.yml * as the filename of your suite. To run this suite you just
+Assuming *testing-suite.yml* as the filename of your suite. To run this suite you just
 type:
 
 `thor selenium:test -s testing-suite`
